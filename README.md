@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tim Jones, CTO @ Tevent
+I'm Tim Jones, CTO@[Tevent](https://www.tevent.com/)
 
 #### 💹 Stats
 
