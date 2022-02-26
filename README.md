@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Tim Jones, CTO@[Tevent](https://www.tevent.com/)
+I'm Tim Jones, CTO@[Tevent](https://www.tevent.com/) and I love my dog
+
+![Dexter](https://live.staticflickr.com/65535/48104889916_32a2084896_n.jpg "Dexter")
 
 #### 💹 Stats
 
