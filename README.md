@@ -3,6 +3,7 @@
 I'm Tim Jones, CTO@[Tevent](https://www.tevent.com/) and I love my dog
 
 [Blog](https://timmoth.com/blog)
+
 [Showcase](https://timmoth.com/showcase)
 
 ![Dexter](https://live.staticflickr.com/65535/48104889916_32a2084896_n.jpg "Dexter")
