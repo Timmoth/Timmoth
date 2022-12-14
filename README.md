@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tim Jones, CTO@[Tevent](https://www.tevent.com/) and I love my dog
+I'm Tim Jones, dotnet enthusiast & CTO at [Tevent](https://www.tevent.com/)
 
 [Blog](https://timmoth.com/blog)
 
