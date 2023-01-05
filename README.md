@@ -6,10 +6,6 @@ I'm Tim, dotnet enthusiast & CTO at [Tevent](https://www.tevent.com/)
 [![Showcase](https://img.shields.io/badge/showcase-link-green?style=flat-square)](https://timmoth.com/showcase)
 [![LeetCode user timmoth](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=gray&color=green&label=solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftimmoth&logo=leetcode&logoColor=green)](https://leetcode.com/timmoth/)
 
-[Blog](https://timmoth.com/blog)
-
-[Showcase](https://timmoth.com/showcase)
-
 ![Dexter](https://live.staticflickr.com/65535/48104889916_32a2084896_n.jpg "Dexter")
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmoth&layout=compact&theme=swift)
