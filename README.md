@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tim Jones, dotnet enthusiast & CTO at [Tevent](https://www.tevent.com/)
+I'm Tim, dotnet enthusiast & CTO at [Tevent](https://www.tevent.com/)
 
 [![Blog](https://img.shields.io/badge/blog-link-green?style=flat-square)](https://timmoth.com/posts)
 [![Showcase](https://img.shields.io/badge/showcase-link-green?style=flat-square)](https://timmoth.com/showcase)
