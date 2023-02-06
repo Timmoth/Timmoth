@@ -9,6 +9,6 @@ I'm Tim, creative coder, dotnet enthusiast & CTO at [Tevent](https://www.tevent.
 
 ![Dexter](https://live.staticflickr.com/65535/48104889916_32a2084896_n.jpg "Dexter")
 
-![Github stats overview](https://raw.githubusercontent.com/Timmoth/github-stats/master/generated/overview.svg)
-![Github stats languages](https://raw.githubusercontent.com/Timmoth/github-stats/master/generated/languages.svg)
+# Github
+![Metrics](/github-metrics.svg)
 ![](https://hit.yhype.me/github/profile?user_id=21103223)
