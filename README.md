@@ -1,9 +1,28 @@
-![Dexter](https://live.staticflickr.com/65535/48104889916_32a2084896_n.jpg "Dexter")
+<h1 align="center">Hi, I'm Tim 👋</h1>
+<p align="center">
+  <img src="https://live.staticflickr.com/65535/48104889916_32a2084896_n.jpg" />
+</p>
 
-[![Blog](https://img.shields.io/badge/blog-link-green?style=flat-square)](https://timmoth.com/posts)
-[![Showcase](https://img.shields.io/badge/showcase-link-green?style=flat-square)](https://timmoth.com/showcase)
-[![Twitter](https://img.shields.io/badge/twitter-link-green?style=flat-square)](https://twitter.com/Timmoth_j)
-[![LeetCode user timmoth](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=gray&color=green&label=solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftimmoth&logo=leetcode&logoColor=green)](https://leetcode.com/timmoth/)
-# Github
-![Metrics](/github-metrics.svg)
+<p align="center">
+  (And this is Dexter)
+</p>
+
+
+<p align="center">
+  <a href="https://twitter.com/Timmoth_j">twitter</a> •
+  <a href="https://timmoth.com/showcase">showcase</a> •
+  <a href="https://timmoth.com/posts">blog</a> •
+  <a href="https://www.linkedin.com/in/timmoth/">linkedin</a> •
+  <a href="https://creativecoder.dev">creative coder</a> 
+  <br />
+</p>
+
+<h1 align="center">#Stats 📈</h1>
+
+
+<p align="center">
+  <img src="/github-metrics.svg" />
+</p>
+
+
 ![](https://hit.yhype.me/github/profile?user_id=21103223)
