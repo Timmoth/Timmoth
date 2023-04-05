@@ -1,6 +1,7 @@
 on: 
+  schedule: [{cron: "*/15 * * * *"}]
   workflow_dispatch:
-name: Scrape File
+  name: Update Weather Readings
 jobs:
   build:
     name: Build
