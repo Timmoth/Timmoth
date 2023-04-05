@@ -14,4 +14,3 @@ jobs:
         with:
           url: "https://i7fwmju8w6.execute-api.eu-west-1.amazonaws.com/dev/image.png"
           target: assets
-          auto-match: true
