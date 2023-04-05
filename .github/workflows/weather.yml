@@ -1,7 +1,7 @@
+name: Update Weather Readings
 on: 
   schedule: [{cron: "*/15 * * * *"}]
   workflow_dispatch:
-  name: Update Weather Readings
 jobs:
   build:
     name: Build
