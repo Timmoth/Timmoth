@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  Latest reading from my weather station
+  Latest reading from my garden weather station
 </p>
 
 <p align="center">
