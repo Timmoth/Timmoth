@@ -7,7 +7,7 @@
   (And this is Dexter)
 </p>
 <p align="center">
-  <img alt="Visitor count" src="https://pagestats.timmoth.com/stats/3f49dac7-c3c1-4ec0-8eab-aa630e381462" style="display: inline-block; margin: auto;" />  
+  <img alt="Visitor count" src="https://api.widgetbite.com/stats/3f49dac7-c3c1-4ec0-8eab-aa630e381462" style="display: inline-block; margin: auto;" />  
 </p>
 
 <p align="center">
