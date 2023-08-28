@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Tim 👋</h1>
+<p align="center">
+  <img src="https://widgetbite.com/banner?title=Timmoth&subtitle=Creative%20coder%2C%20Dotnet%20enthusiast%20" />
+</p>
 <p align="center">
   <a href="https://twitter.com/Timmoth_j">twitter</a> •
   <a href="https://timmoth.com/showcase">showcase</a> •
@@ -6,13 +8,6 @@
   <a href="https://www.linkedin.com/in/timmoth/">linkedin</a> •
   <a href="https://creativecoder.dev">creative coder</a> 
   <br />
-</p>
-<p align="center">
-  <img src="https://live.staticflickr.com/65535/48104889916_32a2084896_n.jpg" />
-</p>
-
-<p align="center">
-  (And this is Dexter)
 </p>
 
 <div align="center">
@@ -53,12 +48,4 @@ What is your favorite language? (Click to vote)
 
 <p align="center">
   <img src="/github-metrics.svg" />
-</p>
-
-<p align="center">
-  Latest reading from my garden weather station
-</p>
-
-<p align="center">
-  <img src="/assets/image.png" />
 </p>
