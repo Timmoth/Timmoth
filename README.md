@@ -6,7 +6,8 @@
   <a href="https://timmoth.com/showcase">showcase</a> •
   <a href="https://timmoth.com/posts">blog</a> •
   <a href="https://www.linkedin.com/in/timmoth/">linkedin</a> •
-  <a href="https://creativecoder.dev">creative coder</a> 
+  <a href="https://techfolk.dev/">techfolk</a> •
+  <a href="https://widgetbite.com/">widgetbite</a>
   <br />
 </p>
 
