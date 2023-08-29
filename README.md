@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://widgetbite.com/banner?title=Timmoth&subtitle=Creative%20coder%2C%20Dotnet%20enthusiast%20&font=consolas&palette=twilight&transform=skew" />
+  <img src="https://widgetbite.com/banner?title=Timmoth&subtitle=Creative%20coder%2C%20Dotnet%20enthusiast%20&font=helvetica&backgroundpalette=twilight&titletransform=scale&subtitletransform=skew&fontpalette=pastels" />
 </p>
 <p align="center">
   <a href="https://twitter.com/Timmoth_j">twitter</a> •
