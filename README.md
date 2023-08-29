@@ -1,6 +1,8 @@
-<p align="center">
   <img src="https://widgetbite.com/banner?title=Tim%20Jones&subtitle=Creative%20coder%2C%20Dotnet%20enthusiast%20&font=consolas&backgroundpalette=twilight&titletransform=skew&subtitletransform=rotate&fontpalette=twilight" width=100% height=100%/>
+  <p align="center">
+    <a href="https://widgetbite.com">Create your own animated banner!</a>
 </p>
+  
 <p align="center">
   <a href="https://twitter.com/Timmoth_j">twitter</a> •
   <a href="https://timmoth.com/showcase">showcase</a> •
@@ -12,7 +14,7 @@
 </p>
 
 <div align="center">
-What is your favorite language? (Click to vote)
+What is your favourite language? (Click to vote)
 </br>
 <a href="https://widgetbite.com/polls/8b07d87b-7da9-4790-bd54-5cb76cd2e27b/options/1/vote">
 <img alt="Option1" src="https://widgetbite.com/polls/8b07d87b-7da9-4790-bd54-5cb76cd2e27b/options/1"/>
