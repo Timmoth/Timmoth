@@ -2,16 +2,23 @@
   <p align="center">
     <a href="https://widgetbite.com">Create your own animated banner!</a>
 </p>
-  
-<p align="center">
+
+  <p align="center">
+  Socials
+    <br />
   <a href="https://twitter.com/Timmoth_j">twitter</a> •
   <a href="https://timmoth.com/showcase">showcase</a> •
   <a href="https://timmoth.com/posts">blog</a> •
-  <a href="https://www.linkedin.com/in/timmoth/">linkedin</a> •
+  <a href="https://www.linkedin.com/in/timmoth/">linkedin</a> 
+</p>
+
+<p align="center">
+  Projects
+  <br />
   <a href="https://techfolk.dev/">techfolk</a> •
   <a href="https://quizflock.com/">quizflock</a> •
+  <a href="https://rompisland.com/">rompisland</a> •
   <a href="https://widgetbite.com/">widgetbite</a>
-  <br />
 </p>
 
 <div align="center">
