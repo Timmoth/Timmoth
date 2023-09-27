@@ -15,8 +15,8 @@
 <p align="center">
   Projects
   <br />
+  <a href="https://cloudrecroom.com/">cloud rec room</a> •
   <a href="https://techfolk.dev/">techfolk</a> •
-  <a href="https://quizflock.com/">quizflock</a> •
   <a href="https://rompisland.com/">rompisland</a> •
   <a href="https://widgetbite.com/">widgetbite</a>
 </p>
