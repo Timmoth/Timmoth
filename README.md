@@ -21,31 +21,8 @@
   <a href="https://widgetbite.com/">widgetbite</a>
 </p>
 
-<div align="center">
-What is your favourite language? (Click to vote)
-</br>
-<a href="https://widgetbite.com/polls/8b07d87b-7da9-4790-bd54-5cb76cd2e27b/options/1/vote">
-<img alt="Option1" src="https://widgetbite.com/polls/8b07d87b-7da9-4790-bd54-5cb76cd2e27b/options/1"/>
-</a>
-</br>
-
-<a href="https://widgetbite.com/polls/8b07d87b-7da9-4790-bd54-5cb76cd2e27b/options/2/vote">
-<img alt="Option2" src="https://widgetbite.com/polls/8b07d87b-7da9-4790-bd54-5cb76cd2e27b/options/2"/>
-</a>
-</br>
-
-<a href="https://widgetbite.com/polls/8b07d87b-7da9-4790-bd54-5cb76cd2e27b/options/3/vote">
-<img alt="Option3" src="https://widgetbite.com/polls/8b07d87b-7da9-4790-bd54-5cb76cd2e27b/options/3"/>
-</a> 
-</br>
-
-<a href="https://widgetbite.com/polls/8b07d87b-7da9-4790-bd54-5cb76cd2e27b/options/4/vote">
-<img alt="Option4" src="https://widgetbite.com/polls/8b07d87b-7da9-4790-bd54-5cb76cd2e27b/options/4"/>
-</a>
-</br>
-</div>
-<p align="center">
-    <a href="https://widgetbite.com">Create your own poll widget</a>
+  <p align="center">
+  <a href="https://hello.timmoth.com">More about me</a>
 </p>
 
 <div align="center">
