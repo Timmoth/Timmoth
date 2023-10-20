@@ -6,6 +6,7 @@
   <p align="center">
   Socials
     <br />
+  <a href="https://hello.timmoth.com">Resume</a>
   <a href="https://twitter.com/Timmoth_j">twitter</a> •
   <a href="https://timmoth.com/showcase">showcase</a> •
   <a href="https://timmoth.com/posts">blog</a> •
