@@ -4,7 +4,7 @@
 </p>
 
   <p align="center">
-  Connect with me
+  Links
     <br />
   <a href="https://hello.timmoth.com">resume</a> •
   <a href="https://twitter.com/Timmoth_j">twitter</a> •
