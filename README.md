@@ -1,8 +1,3 @@
-  <img src="https://widgetbite.com/banner?title=Tim%20Jones&subtitle=Creative%20coder%2C%20Dotnet%20enthusiast%20&font=consolas&backgroundpalette=twilight&titletransform=skew&subtitletransform=rotate&fontpalette=none" width=100% height=100%/>
-  <p align="center">
-    <a href="https://widgetbite.com">Create your own animated banner!</a>
-</p>
-
   <p align="center">
   Links
     <br />
@@ -22,15 +17,15 @@
   <a href="https://widgetbite.com/">widgetbite</a>
 </p>
 
+<h1 align="center">#Stats 📈</h1>       
+
+<p align="center">
+  <img src="/github-metrics.svg" />
+</p>
+
 <div align="center">
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/timmoth"/>  
 </div>
 <p align="center">
     <a href="https://widgetbite.com">Create your own visitor stats widget</a>
-</p>
-
-<h1 align="center">#Stats 📈</h1>       
-
-<p align="center">
-  <img src="/github-metrics.svg" />
 </p>
