@@ -11,10 +11,24 @@
 <p align="center">
   Projects
   <br />
-  <a href="https://cloudrecroom.com/">cloud rec room</a> •
-  <a href="https://techfolk.dev/">techfolk</a> •
-  <a href="https://rompisland.com/">rompisland</a> •
-  <a href="https://widgetbite.com/">widgetbite</a>
+
+  <a href="https://github.com/Timmoth/vcortex">vcortex</a> - CPU/GPU machine learning library for .NET, designed for neural network training and inference.
+  
+  <a href="https://github.com/Timmoth/aid-cli">aid-cli</a> - Developer toolkit featuring 40+ cli utilities.
+  
+  <a href="https://github.com/Timmoth/Sapling">Sapling</a> - One of the worlds strongest chess engines (rated 3400 elo).
+
+  <a href="https://github.com/Timmoth/AsyncMonolith">AsyncMonolith</a> - Facilitates simple, durable and asynchronous messaging in dotnet apps. 
+  
+  <a href="https://cloudrecroom.com/">cloud rec room</a> - A collection of multiplayer ice-breaker party games.
+  
+  <a href="https://techfolk.dev/">techfolk</a> - A collection of awesome people in tech
+  
+  <a href="https://rompisland.com/">rompisland</a> - 65% art project 35% MMORPG.
+  
+  <a href="https://widgetbite.com/">widgetbite</a> - Custom widgets for your github readme
+
+  <a href="https://github.com/Timmoth/RustyRatracerr">Rusty RayTracer</a> - Distributed ray tracer written in Rust
 </p>
 
 <h1 align="center">#Stats 📈</h1>       
