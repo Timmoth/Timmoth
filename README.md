@@ -12,6 +12,8 @@
   Projects
   <br />
 
+  <a href="https://grandchesstree.com/">The Grand Chess Tree</a> - a public, distributed effort to explore the depths of the game of chess.
+
   <a href="https://github.com/Timmoth/vcortex">vcortex</a> - CPU/GPU machine learning library for .NET, designed for neural network training and inference.
   
   <a href="https://github.com/Timmoth/aid-cli">aid-cli</a> - Developer toolkit featuring 40+ cli utilities.
